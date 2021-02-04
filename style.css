@@ -1,0 +1,46 @@
+html body {
+  font-family: 'Poppins', sans-serif;
+}
+h1 h5 {
+  font-weight: 900;
+}
+#homepage {
+  height: 100%;
+  padding-top: 20px;
+  /* Check out https://mycolor.space/ to generate your own gradient */
+  /* background-image: linear-gradient(
+    to right top,
+    #a788fb,
+    #b69ffd,
+    #c6b5ff,
+    #d6cbff,
+    #e7e1ff,
+    #e6ecff,
+    #edf5ff,
+    #fafdff,
+    #f3fdff,
+    #eafeff,
+    #e2feff,
+    #dafffd
+  ); */
+
+  background-color: aliceblue;
+}
+
+#introduction {
+  padding-top: 80px;
+}
+
+#about {
+  padding: 30px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
